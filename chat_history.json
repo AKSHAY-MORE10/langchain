@@ -1,0 +1,14 @@
+[
+    {
+        "type": "system",
+        "content": "You are a helpful assistant."
+    },
+    {
+        "type": "human",
+        "content": "heyyy"
+    },
+    {
+        "type": "ai",
+        "content": "Hey there! How can I help you today?"
+    }
+]
