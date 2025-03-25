@@ -10,5 +10,29 @@
     {
         "type": "ai",
         "content": "Hey there! How can I help you today?"
+    },
+    {
+        "type": "human",
+        "content": "five fruits name"
+    },
+    {
+        "type": "ai",
+        "content": "1. Apple\n2. Banana\n3. Orange\n4. Grape\n5. Strawberry"
+    },
+    {
+        "type": "human",
+        "content": "five universal lows"
+    },
+    {
+        "type": "ai",
+        "content": "It seems you're asking about \"universal laws,\" but the term \"universal lows\" isn't a standard phrase.  Perhaps you're thinking of universal *laws* in physics, philosophy, or some other area.  Could you clarify what kind of laws you're interested in?  For example, are you thinking of:\n\n* **Laws of physics?**  Like Newton's laws of motion, the laws of thermodynamics, or universal gravitation?\n* **Moral or ethical laws?**  Like the Golden Rule (\"Treat others as you want to be treated\")?\n* **Spiritual or philosophical principles?** Like the Law of Attraction or the concept of Karma?\n\nGiving me a little more context will help me understand what you're looking for."
+    },
+    {
+        "type": "human",
+        "content": "what was the first question a asked you?"
+    },
+    {
+        "type": "ai",
+        "content": "Your first question was \"heyyy\"."
     }
 ]
